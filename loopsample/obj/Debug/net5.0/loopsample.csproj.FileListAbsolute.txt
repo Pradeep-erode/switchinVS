@@ -1,0 +1,16 @@
+C:\Users\STS-USER\source\repos\loopsample\bin\Debug\net5.0\loopsample.exe
+C:\Users\STS-USER\source\repos\loopsample\bin\Debug\net5.0\loopsample.deps.json
+C:\Users\STS-USER\source\repos\loopsample\bin\Debug\net5.0\loopsample.runtimeconfig.json
+C:\Users\STS-USER\source\repos\loopsample\bin\Debug\net5.0\loopsample.runtimeconfig.dev.json
+C:\Users\STS-USER\source\repos\loopsample\bin\Debug\net5.0\loopsample.dll
+C:\Users\STS-USER\source\repos\loopsample\bin\Debug\net5.0\ref\loopsample.dll
+C:\Users\STS-USER\source\repos\loopsample\bin\Debug\net5.0\loopsample.pdb
+C:\Users\STS-USER\source\repos\loopsample\obj\Debug\net5.0\loopsample.csprojAssemblyReference.cache
+C:\Users\STS-USER\source\repos\loopsample\obj\Debug\net5.0\loopsample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STS-USER\source\repos\loopsample\obj\Debug\net5.0\loopsample.AssemblyInfoInputs.cache
+C:\Users\STS-USER\source\repos\loopsample\obj\Debug\net5.0\loopsample.AssemblyInfo.cs
+C:\Users\STS-USER\source\repos\loopsample\obj\Debug\net5.0\loopsample.csproj.CoreCompileInputs.cache
+C:\Users\STS-USER\source\repos\loopsample\obj\Debug\net5.0\loopsample.dll
+C:\Users\STS-USER\source\repos\loopsample\obj\Debug\net5.0\ref\loopsample.dll
+C:\Users\STS-USER\source\repos\loopsample\obj\Debug\net5.0\loopsample.pdb
+C:\Users\STS-USER\source\repos\loopsample\obj\Debug\net5.0\loopsample.genruntimeconfig.cache
